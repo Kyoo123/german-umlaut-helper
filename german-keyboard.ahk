@@ -6,8 +6,21 @@
 +!a::Send, {U+00C4}
 +!u::Send, {U+00DC}
 +!s::Send, {U+1E9E}
+!e::Send, {U+20AC}
 
 !d::
 FormatTime, currentDate,, dd.MM.yyyy
 SendInput %currentDate%
+return
+
+^!d::
+FormatTime, year,, yyyy
+FormatTime, doy,, YDay
+doy := SubStr("000" doy, -2)
+SendInput %doy%-%year%
+return
+
++!d::
+FormatTime, shortDate,, dd-MM-yy
+SendInput %shortDate%
 return

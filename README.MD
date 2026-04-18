@@ -22,18 +22,20 @@ Perfect for:
 
 ## ⌨️ Keybindings
 
-| Shortcut          | Output |
-| ----------------- | ------ |
-| `Alt + o`         | ö      |
-| `Alt + a`         | ä      |
-| `Alt + u`         | ü      |
-| `Alt + s`         | ß      |
-| `Shift + Alt + o` | Ö      |
-| `Shift + Alt + a` | Ä      |
-| `Shift + Alt + u` | Ü      |
-| `Shift + Alt + s` | ẞ      |
-| `Alt + d`         | today's date in german type (e.g. 18.04.2026)      |
-
+| Shortcut              | Output                                      |
+| --------------------- | ------------------------------------------- |
+| `Alt + o`             | ö                                           |
+| `Alt + a`             | ä                                           |
+| `Alt + u`             | ü                                           |
+| `Alt + s`             | ß                                           |
+| `Shift + Alt + o`     | Ö                                           |
+| `Shift + Alt + a`     | Ä                                           |
+| `Shift + Alt + u`     | Ü                                           |
+| `Shift + Alt + s`     | ẞ                                           |
+| `Alt + e`             | €                                           |
+| `Alt + d`             | today's date (e.g. 18.04.2026)              |
+| `Ctrl + Alt + d`      | day-of-year + year (e.g. 109-2026)          |
+| `Shift + Alt + d`     | short date (e.g. 18-04-26)                  |
 
 ---
 
