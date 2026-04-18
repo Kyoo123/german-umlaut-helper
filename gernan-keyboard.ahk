@@ -6,3 +6,8 @@
 +!a::Send, {U+00C4}
 +!u::Send, {U+00DC}
 +!s::Send, {U+1E9E}
+
+!d::
+FormatTime, currentDate,, dd.MM.yyyy
+SendInput %currentDate%
+return

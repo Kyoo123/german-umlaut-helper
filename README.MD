@@ -32,6 +32,8 @@ Perfect for:
 | `Shift + Alt + a` | Ä      |
 | `Shift + Alt + u` | Ü      |
 | `Shift + Alt + s` | ẞ      |
+| `Alt + d`         | today's date in german type (e.g. 18.04.2026)      |
+
 
 ---
 
