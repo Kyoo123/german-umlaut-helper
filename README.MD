@@ -36,6 +36,8 @@ Perfect for:
 | `Alt + d`             | today's date (e.g. 18.04.2026)              |
 | `Ctrl + Alt + d`      | day-of-year + year (e.g. 109-2026)          |
 | `Shift + Alt + d`     | short date (e.g. 18-04-26)                  |
+| `Ctrl + Alt + i`      | ISO date (2026-04-19)                       |
+
 
 ---
 

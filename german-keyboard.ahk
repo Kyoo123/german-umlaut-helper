@@ -24,3 +24,8 @@ return
 FormatTime, shortDate,, dd-MM-yy
 SendInput %shortDate%
 return
+
+^!i::
+FormatTime, iso,, yyyy-MM-dd
+SendInput %iso%
+return
